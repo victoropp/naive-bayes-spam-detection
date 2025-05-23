@@ -66,7 +66,7 @@ naive-bayes-spam-detection/
 ##  Visualizations
 
 ### Class Distribution
-![Class Distribution](outputs/class_distribution.png)
+![Class Distribution](class_distribution.png)
 
 ### Hyperparameter Optimization
 ![Hyperparameter Evaluation](outputs/hyperparameter_eval.png)
