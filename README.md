@@ -69,19 +69,19 @@ naive-bayes-spam-detection/
 ![Class Distribution](class_distribution.png)
 
 ### Hyperparameter Optimization
-![Hyperparameter Evaluation](outputs/hyperparameter_eval.png)
+![Hyperparameter Evaluation](hyperparameter_eval.png)
 
 ### Optimization Surface
-![Optimization Surface](outputs/optimization_surface.png)
+![Optimization Surface](optimization_surface.png)
 
 ### Confusion Matrix
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](outputs/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Precision-Recall Curve
-![Precision-Recall](outputs/precision_recall_curve.png)
+![Precision-Recall](precision_recall_curve.png)
 
 ---
 
