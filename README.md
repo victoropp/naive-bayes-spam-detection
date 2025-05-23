@@ -100,6 +100,11 @@ saveLearnerForCoder(finalModel, 'SpamClassifierModel')
 
 ```
 ---
+##  Kaggle
+Also available on Kagggle:
+[Kaggle](https://www.kaggle.com/code/victoropp/spam-detection-in-matlab-naive-bayes-classifier)
+
+---
 ##  Author
 
 **Victor Collins Oppon**  
