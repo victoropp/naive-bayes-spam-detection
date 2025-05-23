@@ -103,7 +103,7 @@ saveLearnerForCoder(finalModel, 'SpamClassifierModel')
 ##  Author
 
 **Victor Collins Oppon**  
-*MSc Data Science | Chartered Accountant*  
+*MSc Data Science | Chartered Accountant (FCCA)*  
 [LinkedIn Profile](https://www.linkedin.com/in/victor-collins-oppon-fcca-mba-bsc-01541019/)  
 Building a bridge between finance and intelligent automation.
 
